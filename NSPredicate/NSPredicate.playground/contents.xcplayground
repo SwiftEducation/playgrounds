@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' requires-full-environment='true' display-mode='rendered'>
+    <pages>
+        <page name='NSPredicate'/>
+        <page name='HelloWorld'/>
+        <page name='UsingVariablesInPredicates'/>
+        <page name='KeyPaths'/>
+        <page name='Operators'/>
+        <page name='Like'/>
+        <page name='Contains'/>
+        <page name='Composition'/>
+        <page name='Relational'/>
+        <page name='References'/>
+        <page name='Solutions'/>
+        <page name='HowToUsePlaygrounds'/>
+    </pages>
+</playground>
