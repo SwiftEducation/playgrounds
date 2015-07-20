@@ -15,6 +15,10 @@ class Person: NSObject {    // Must inherit from NSObject or NSPredicate will fa
         self.name = name
         self.age = age
     }
+    
+    override var description: String {
+        return self.name + " - \(self.age) years old"
+    }
 }
 
 /*:
@@ -29,6 +33,7 @@ let harpo   = Person(name: "Harpo", age: 45)
 let zeppo   = Person(name: "Zeppo", age: 61)
 
 let people: NSArray = [groucho, chicco, harpo, zeppo]
+// using a NSArray here because predicates work with them, not with regular Swift Arrays
 
 /*:
 
@@ -54,7 +59,7 @@ people.filteredArrayUsingPredicate(namesPredicate)
 
 /*:
 
-💻 __NOW, IT'S YOUR TIME__: try to filter all people aged 50 years old, then everyone called _Zeppo_
+💻 __Your turn__: try to filter all people aged 50 years old, then everyone called _Zeppo_
 
 */
 
@@ -64,6 +69,12 @@ people.filteredArrayUsingPredicate(namesPredicate)
 
 💻 __SOME DESTRUCTIVE FUN__: remove the NSObject parent class from Person and see what happens (__save before__)
 
+*/
+
+
+/*:
+
+💻 More destructive fun__: change the NSArray from people, to create a Swift Array and see what happens
 */
 
 

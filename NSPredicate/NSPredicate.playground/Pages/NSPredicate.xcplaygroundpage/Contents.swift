@@ -1,6 +1,6 @@
 /*:
 
-# NSSpredicate
+# NSPredicate
 
 The NSPredicate class is used to define __logical conditions__ used to constrain a search either for a __fetch__ or for __in-memory__ filtering.
 
