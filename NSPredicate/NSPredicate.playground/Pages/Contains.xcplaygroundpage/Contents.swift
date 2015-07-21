@@ -3,10 +3,15 @@
 import Foundation
 
 class Province: NSObject {    // Must inherit from NSObject
-    var name: String = "Sevilla"
+    let name: String
     
     init(name: String) {
         self.name = name
+    }
+    
+    // description lets you pretty print this class' instances in the sidebar
+    override var description: String {
+        return self.name
     }
 }
 

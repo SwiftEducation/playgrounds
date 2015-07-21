@@ -3,12 +3,17 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/dfreniche/BTSync/Trabajo/Formacio%CC%81n/iOS/Curso%20iOS%20-%20Intermedio/Keynote/NSPredicate/NSPredicate.playground/Pages/Solutions.xcplaygroundpage#CharacterRangeLen=44&amp;CharacterRangeLoc=1084&amp;EndingLineNumber=53&amp;StartingLineNumber=53&amp;Timestamp=457469568.561345"
+         documentLocation = "file:///Users/dfreniche/BTSync/Trabajo/Formacio%CC%81n/iOS/Curso%20iOS%20-%20Intermedio/Keynote/NSPredicate/NSPredicate.playground/Pages/Solutions.xcplaygroundpage#CharacterRangeLen=40&amp;CharacterRangeLoc=1503&amp;EndingLineNumber=68&amp;StartingLineNumber=68&amp;Timestamp=459153378.686474"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "#CharacterRangeLen=43&amp;CharacterRangeLoc=1083&amp;EndingColumnNumber=44&amp;EndingLineNumber=53&amp;StartingColumnNumber=1&amp;StartingLineNumber=53&amp;Timestamp=457469568.561569"
+         documentLocation = "#CharacterRangeLen=39&amp;CharacterRangeLoc=1502&amp;EndingColumnNumber=44&amp;EndingLineNumber=68&amp;StartingColumnNumber=1&amp;StartingLineNumber=68&amp;Timestamp=459153378.686656"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=43&amp;CharacterRangeLoc=1491&amp;EndingColumnNumber=44&amp;EndingLineNumber=66&amp;StartingColumnNumber=1&amp;StartingLineNumber=66&amp;Timestamp=459153983.952151"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>

@@ -8,14 +8,15 @@ Given the Person class:
 import Foundation
 
 class Person: NSObject {    // Must inherit from NSObject or NSPredicate will fail at runtime
-    var name: String = "John Doe"
-    var age: Int = 0
+    let name: String
+    let age: Int 
     
     init(name: String, age: Int) {
         self.name = name
         self.age = age
     }
     
+    // description lets you pretty print this class' instances in the sidebar
     override var description: String {
         return self.name + " - \(self.age) years old"
     }
